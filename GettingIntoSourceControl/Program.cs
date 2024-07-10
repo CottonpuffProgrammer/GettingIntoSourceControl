@@ -17,4 +17,7 @@ if (yesno == "yes")
 } else if (yesno == "no")
 {
     Console.WriteLine("Awww...");
+} else
+{
+    Console.WriteLine("I didn't get a yes or no, I am a simple program and thus do not understand your input.");
 }
